@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexey Zherdev</h1>
+<h1 align="center">Hi, I'm Alexey Zherdev</h1>
 <h3 align="center">A currently learning systems engineer, a bit of a backend developer, as well as a novice DevOps/DevNet engineer from Russia</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geniusmediocrity&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="geniusmediocrity" /></p>
